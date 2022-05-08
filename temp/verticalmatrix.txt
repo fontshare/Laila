@@ -1,0 +1,10 @@
+name:Laila
+weight:700
+win_a:1150
+win_d:570
+typo_a:1150
+typo_d:-570
+hhea_a:1150
+hhea_d:-570
+hhea_l:80
+typo_l:80
